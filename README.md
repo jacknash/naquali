@@ -1,28 +1,11 @@
-# naQuali
-
-Name
+naQuali
 ====
-
-Overview
 
 ## Description
 
-## Demo
-
-## VS. 
-
-## Requirement
+naQuali is the web browser full in people's favorite.
+I hope naQuali provide really good information.
 
 ## Usage
-
-## Install
-
-## Contribution
-
-## Licence
-
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
-
-## Author
-
-[tcnksm](https://github.com/tcnksm)
+User submit the URL of favorite site.
+If that is interesting, naQual have it,

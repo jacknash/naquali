@@ -8,4 +8,4 @@ I hope naQuali provide really good information.
 
 ## Usage
 User submit the URL of favorite site.
-If that is interesting, naQual have it,
+If that is interesting, naQuali have it,
